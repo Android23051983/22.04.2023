@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33606.364
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.04.2023", "22.04.2023\22.04.2023.csproj", "{5F139C32-5AA5-4E66-899D-1EB678121D6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Themes", "Themes\Themes.csproj", "{31BE771F-958A-42C3-8B05-B46F3E53B1C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F139C32-5AA5-4E66-899D-1EB678121D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F139C32-5AA5-4E66-899D-1EB678121D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F139C32-5AA5-4E66-899D-1EB678121D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F139C32-5AA5-4E66-899D-1EB678121D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31BE771F-958A-42C3-8B05-B46F3E53B1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BE771F-958A-42C3-8B05-B46F3E53B1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BE771F-958A-42C3-8B05-B46F3E53B1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BE771F-958A-42C3-8B05-B46F3E53B1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1860CD6-7F44-4EC8-A243-7C606C11D5A6}
+	EndGlobalSection
+EndGlobal
